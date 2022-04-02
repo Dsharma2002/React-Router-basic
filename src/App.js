@@ -23,6 +23,7 @@ function App() {
 const Home = () => (
   <div>
     <h1>Home Page</h1>
+    <h2>This should appear in the Home page</h2>
   </div>
 );
 
