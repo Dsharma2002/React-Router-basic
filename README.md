@@ -1,3 +1,5 @@
+This is a basic router setup where a model of shop page appears. The in-site links help the user navigate to different urls of the main app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
